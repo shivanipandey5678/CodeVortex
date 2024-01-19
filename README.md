@@ -1,1 +1,1 @@
-# CodeVortex
+Embark on a coding odyssey with CodeVortex – your portal to a world of Python dictionaries and algorithmic wonders. Navigate through the intricacies of data mapping, symbol magic, and numerical adventures. Unleash the power of characters and numbers in this coding cosmos, where every line tells a tale of innovation. Join the journey, explore the depths of Pythonic enchantment, and conquer the realms of logical elegance!
